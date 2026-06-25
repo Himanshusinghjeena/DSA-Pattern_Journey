@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0295-find-median-from-data-stream) |
 | [1046-last-stone-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1046-last-stone-weight) |
 | [1405-longest-happy-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1405-longest-happy-string) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0295-find-median-from-data-stream) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## String
 |  |
@@ -34,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1405-longest-happy-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1405-longest-happy-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0295-find-median-from-data-stream) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
