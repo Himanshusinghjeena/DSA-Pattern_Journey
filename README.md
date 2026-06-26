@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-last-stone-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1046-last-stone-weight) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [2402-meeting-rooms-iii](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2402-meeting-rooms-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
@@ -26,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1405-longest-happy-string) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2402-meeting-rooms-iii](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2402-meeting-rooms-iii) |
 ## Sorting
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0295-find-median-from-data-stream) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2402-meeting-rooms-iii](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2402-meeting-rooms-iii) |
 ## String
 |  |
 | ------- |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [2402-meeting-rooms-iii](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2402-meeting-rooms-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -76,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Simulation
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2402-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
