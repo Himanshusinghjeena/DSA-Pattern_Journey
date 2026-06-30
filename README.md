@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0228-summary-ranges) |
 | [1046-last-stone-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1046-last-stone-weight) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
