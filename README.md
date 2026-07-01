@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0228-summary-ranges) |
 | [1046-last-stone-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1046-last-stone-weight) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1046-last-stone-weight) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0295-find-median-from-data-stream) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -126,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0703-kth-largest-element-in-a-stream) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
