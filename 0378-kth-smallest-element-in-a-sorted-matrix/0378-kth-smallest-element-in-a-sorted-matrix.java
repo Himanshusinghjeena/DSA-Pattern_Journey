@@ -15,7 +15,7 @@ class Solution {
             int row = curr[1];
             int col = curr[2];
 
-            // Push next element from the same row
+            
             if (col + 1 < n) {
                 pq.offer(new int[] {
                         matrix[row][col + 1],
