@@ -186,8 +186,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0973-k-closest-points-to-origin) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Geometry
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0973-k-closest-points-to-origin) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
