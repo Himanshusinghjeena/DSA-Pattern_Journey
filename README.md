@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0973-k-closest-points-to-origin](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1046-last-stone-weight) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0414-third-maximum-number) |
 | [0767-reorganize-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0973-k-closest-points-to-origin) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0767-reorganize-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0767-reorganize-string) |
 | [1405-longest-happy-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1405-longest-happy-string) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Two Pointers
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0767-reorganize-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2402-meeting-rooms-iii](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2402-meeting-rooms-iii) |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0767-reorganize-string) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
