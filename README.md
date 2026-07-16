@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2402-meeting-rooms-iii](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2402-meeting-rooms-iii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2402-meeting-rooms-iii](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2402-meeting-rooms-iii) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2402-meeting-rooms-iii) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0973-k-closest-points-to-origin) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Geometry
 |  |
