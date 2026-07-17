@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2233-maximum-product-after-k-increments](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2233-maximum-product-after-k-increments) |
 | [2402-meeting-rooms-iii](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2402-meeting-rooms-iii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2233-maximum-product-after-k-increments](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2233-maximum-product-after-k-increments) |
 | [2402-meeting-rooms-iii](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2402-meeting-rooms-iii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1405-longest-happy-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1405-longest-happy-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2233-maximum-product-after-k-increments](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2233-maximum-product-after-k-increments) |
 ## Two Pointers
 |  |
 | ------- |
