@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0704-binary-search) |
 | [0973-k-closest-points-to-origin](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1046-last-stone-weight) |
+| [1260-shift-2d-grid](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1260-shift-2d-grid) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1260-shift-2d-grid) |
 | [2402-meeting-rooms-iii](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2402-meeting-rooms-iii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Enumeration
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1260-shift-2d-grid](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1260-shift-2d-grid) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 ## Bucket Sort
 |  |
