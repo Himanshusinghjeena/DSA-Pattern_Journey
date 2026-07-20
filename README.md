@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0228-summary-ranges) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0704-binary-search) |
