@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0528-random-pick-with-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0704-binary-search) |
 | [0973-k-closest-points-to-origin](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1046-last-stone-weight) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0973-k-closest-points-to-origin) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0414-third-maximum-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0295-find-median-from-data-stream) |
+| [0658-find-k-closest-elements](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0658-find-k-closest-elements) |
 ## Design
 |  |
 | ------- |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Tree
@@ -205,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0528-random-pick-with-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0704-binary-search) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
