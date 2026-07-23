@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0414-third-maximum-number) |
+| [0528-random-pick-with-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0704-binary-search](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0704-binary-search) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0528-random-pick-with-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0528-random-pick-with-weight) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0528-random-pick-with-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0704-binary-search) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0069-sqrtx) |
+| [0528-random-pick-with-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0528-random-pick-with-weight) |
 | [0973-k-closest-points-to-origin](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -257,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0278-first-bad-version) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
