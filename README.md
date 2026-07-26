@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0414-third-maximum-number) |
 | [0528-random-pick-with-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0658-find-k-closest-elements) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0217-contains-duplicate](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0767-reorganize-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0528-random-pick-with-weight) |
+| [0560-subarray-sum-equals-k](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0560-subarray-sum-equals-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
