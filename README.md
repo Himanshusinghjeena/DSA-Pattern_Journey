@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0414-third-maximum-number) |
 | [0528-random-pick-with-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0704-binary-search) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0767-reorganize-string) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0069-sqrtx](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0069-sqrtx) |
 | [0528-random-pick-with-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0528-random-pick-with-weight) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
