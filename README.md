@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0316-remove-duplicate-letters) |
 | [0767-reorganize-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0767-reorganize-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1405-longest-happy-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1405-longest-happy-string) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0316-remove-duplicate-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
