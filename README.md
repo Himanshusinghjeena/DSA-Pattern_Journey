@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2402-meeting-rooms-iii](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2402-meeting-rooms-iii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0528-random-pick-with-weight) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
