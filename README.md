@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0316-remove-duplicate-letters) |
 | [0767-reorganize-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0767-reorganize-string) |
+| [0844-backspace-string-compare](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0658-find-k-closest-elements) |
+| [0844-backspace-string-compare](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1260-shift-2d-grid) |
 | [2402-meeting-rooms-iii](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/2402-meeting-rooms-iii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
