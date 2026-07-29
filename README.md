@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-last-stone-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1046-last-stone-weight) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Interactive
 |  |
