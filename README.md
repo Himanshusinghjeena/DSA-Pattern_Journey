@@ -151,11 +151,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0901-online-stock-span) |
 ## Hash Table
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Interactive
 |  |
