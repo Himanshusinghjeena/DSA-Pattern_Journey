@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0162-find-peak-element) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0528-random-pick-with-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0973-k-closest-points-to-origin) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0503-next-greater-element-ii) |
