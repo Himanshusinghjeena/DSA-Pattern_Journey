@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0901-online-stock-span](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Interactive
 |  |
 | ------- |
