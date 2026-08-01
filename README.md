@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0528-random-pick-with-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0540-single-element-in-a-sorted-array) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0374-guess-number-higher-or-lower) |
 ## Randomized
 |  |
 | ------- |
