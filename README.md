@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0316-remove-duplicate-letters) |
 | [0767-reorganize-string](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0844-backspace-string-compare) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0496-next-greater-element-i) |
