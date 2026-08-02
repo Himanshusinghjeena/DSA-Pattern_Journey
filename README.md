@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0703-kth-largest-element-in-a-stream](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 ## Binary Tree
