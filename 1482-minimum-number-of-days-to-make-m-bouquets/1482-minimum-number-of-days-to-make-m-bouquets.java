@@ -1,10 +1,9 @@
 class Solution {
     public int minDays(int[] bloomDay, int m, int k) {
         if (m <= 0 || k <= 0 || m > Integer.MAX_VALUE / k || m * k > bloomDay.length) {
-            // Ensures even with potential integer overflow, the check holds
             return -1;
         }
-        int low = small(bloomDay);
+        int low = min(bloomDay);
         int high = max(bloomDay);
         int ans = high;
         
@@ -38,22 +37,18 @@ class Solution {
     }
 
 
-    public int small(int[] arr){
+    public int min(int[] arr){
         int min = Integer.MAX_VALUE;
-        for(int i =0;i<arr.length;i++){
-            if(arr[i]<min){
-                min= arr[i];
-            }
+        for(int num : arr){
+           min = Math.min(num,min);
         }
         return min;
     }
 
     public int max(int[] arr){
         int max = Integer.MIN_VALUE;
-        for(int i =0;i<arr.length;i++){
-            if(arr[i]>max){
-                max = arr[i];
-            }
+        for(int num : arr){
+            max = Math.max(num,max);
         }
         return max;
     }
