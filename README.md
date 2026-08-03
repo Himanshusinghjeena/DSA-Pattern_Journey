@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0025-reverse-nodes-in-k-group) |
+| [0509-fibonacci-number](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0069-sqrtx](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0509-fibonacci-number](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0509-fibonacci-number) |
 | [0528-random-pick-with-weight](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0973-k-closest-points-to-origin) |
@@ -355,4 +357,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Himanshusinghjeena/DSA-Pattern_Journey/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
